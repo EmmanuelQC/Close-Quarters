@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AScenes/Main Menu.unity
+    guid: 75ef2b00965da4ad591841bc7254d115
+  - enabled: 1
+    path: Assets/AScenes/ControlScenes/Control Screen.unity
+    guid: cb523a442da1d413f92c789ed95fe3a9
+  - enabled: 1
+    path: Assets/AScenes/ControlScenes/ModeScene.unity
+    guid: 797c737a1dc0f4900aa1c1bc6635a943
+  - enabled: 1
+    path: Assets/AScenes/Areana.unity
+    guid: b5bf85c42781848f295cccc65848fcd3
+  - enabled: 1
+    path: Assets/AScenes/HMG.unity
+    guid: 99ca5949b594843c0b7587817af64a54
+  - enabled: 1
+    path: Assets/AScenes/Sniper Event.unity
+    guid: 5058ad49060b74b5e88c9fbd4ce96fb5
+  - enabled: 1
+    path: Assets/AScenes/D-Day event.unity
+    guid: 173cdbe00c70d4fd389804be9ba0954b
+  - enabled: 1
+    path: Assets/AScenes/SplitScreenScenes/Areana(SplitScreen).unity
+    guid: e56621ebab45f4e81ad2303eba6fd90c
+  - enabled: 1
+    path: Assets/AScenes/SplitScreenScenes/HMG(SplitScreen).unity
+    guid: f8a67e0d20976401f8d72f61a8b761aa
+  - enabled: 1
+    path: Assets/AScenes/SplitScreenScenes/Sniper(SplitScreen).unity
+    guid: 3afe3acb46cee49e98b68bbab2804757
+  - enabled: 1
+    path: Assets/AScenes/CameraSettingsScenes/Areana(CamSettings).unity
+    guid: 38b9cece19cbe4ba2a6a067eb1641b24
+  - enabled: 1
+    path: Assets/AScenes/CameraSettingsScenes/HMG(CamSettings).unity
+    guid: 5066e3223a2e34bd48511c6bcc62ccc6
+  - enabled: 1
+    path: Assets/AScenes/CameraSettingsScenes/Sniper(CamSettings).unity
+    guid: 826b0a263841e4c219046b22b878f23f
+  m_configObjects: {}
